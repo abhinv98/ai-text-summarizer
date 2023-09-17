@@ -1,3 +1,5 @@
+Rapid Car api is used here and it is on free trial so 50 request/month only
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
